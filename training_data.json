@@ -1,0 +1,78 @@
+[
+  {
+    "text": "hello world",
+    "label": 0
+  },
+  {
+    "text": "student name",
+    "label": 0
+  },
+  {
+    "text": "normal_function_name",
+    "label": 0
+  },
+  {
+    "text": "welcome to the application",
+    "label": 0
+  },
+  {
+    "text": "http://localhost:8000",
+    "label": 0
+  },
+  {
+    "text": "count = 123",
+    "label": 0
+  },
+  {
+    "text": "user@example.com",
+    "label": 0
+  },
+  {
+    "text": "password123",
+    "label": 1
+  },
+  {
+    "text": "AKIA1234567890ABCDEF",
+    "label": 1
+  },
+  {
+    "text": "a8F!92LmQx7Zp3K",
+    "label": 1
+  },
+  {
+    "text": "xJ7kP9vQ2mL8nR4sT6",
+    "label": 1
+  },
+  {
+    "text": "mySecretKey123!",
+    "label": 1
+  },
+  {
+    "text": "postgres://admin:SuperSecret123@db.local/app",
+    "label": 1
+  },
+  {
+    "text": "token=Qx8!Lm92Pq7#Za31",
+    "label": 1
+  },
+  {
+    "text": "normal text with spaces",
+    "label": 0
+  },
+  {
+    "text": "function calculate_total(items)",
+    "label": 0
+  },
+  {
+    "text": "version_2026_08",
+    "label": 0
+  },
+  {
+    "text": "config_value",
+    "label": 0
+  },
+  {
+    "text": "a9F!k82LmQ#7xP2q",
+    "label": 1
+  }
+]
